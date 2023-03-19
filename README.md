@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">😄Hey! Nice to see you.</h1>
 <!--https://github.com/piyushsuthar/github-readme-quotes-->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%20A%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
 </div>  
 
 <!--
