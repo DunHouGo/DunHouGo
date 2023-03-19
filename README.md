@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm <b>DunHouGo</b>, a habbit developer and mostly coding for Maxon Cinema 4D plugins and tools.</p>
 <h3>Things I code with</h3>
 -->
-
+## My Skills
 <p>
   <img alt="React" src="Assets\adobe.svg" width=24/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <!--
 开源项目
 -->
-<h3>Open source projects</h3>
+## Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -97,11 +97,83 @@ Here are some ideas to get you started:
 <!--
 闭源项目
 -->
+## Closed source projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Last Commit</b></td>
+      <td><b>🛎 Languages</b></td>
+    </tr>
+    
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_PluginManager"><b>c4dplugin_PluginManager</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_PluginManager?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_PluginManager?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_PluginManager?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_RenderFlow"><b>c4dplugin_RenderFlow</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_RenderFlow?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_RenderFlow?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_RenderFlow?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>    
+    <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_RQSpyer"><b>c4dplugin_RQSpyer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_RQSpyer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_RQSpyer?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_RQSpyer?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_LightSolo"><b>c4dplugin_LightSolo</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_LightSolo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_LightSolo?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_LightSolo?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_EasyToggler"><b>c4dplugin_EasyToggler</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_EasyToggler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_EasyToggler?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_EasyToggler?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
-
+<!--
+开发项目
+-->
+## WIP projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Last Commit</b></td>
+      <td><b>🛎 Languages</b></td>
+    </tr>
+    
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_WorkFlow"><b>c4dplugin_WorkFlow</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_WorkFlow?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_WorkFlow?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_WorkFlow?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_GoPainter"><b>c4dplugin_GoPainter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_GoPainter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_GoPainter?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_GoPainter?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Github Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DunHouGo&layout=compact)](https://github.com/DunHouGo/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DunHouGo&layout=compact" align="center" /></div> 
 
 
 
