@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">😄Hey! Nice to see you.</h1>
 <!--https://github.com/piyushsuthar/github-readme-quotes-->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%20A%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
 </div>  
 
 <!--
@@ -129,6 +129,12 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_EasyToggler?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_EasyToggler?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_EasyToggler?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_ClonerPin"><b>c4dplugin_ClonerPin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_ClonerPin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_ClonerPin?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_ClonerPin?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
