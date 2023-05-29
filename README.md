@@ -20,18 +20,19 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">😄Hey! Nice to see you.</h1>
+<!--
 <!--https://github.com/piyushsuthar/github-readme-quotes-->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
 </div>  
-
+-->
 <!--
 <p>Welcome to my page! </br> I'm <b>DunHouGo</b>, a habbit developer and mostly coding for Maxon Cinema 4D plugins and tools.</p>
 <h3>Things I code with</h3>
   <img alt="React" src="Assets\adobe.svg" width=24/>
     <img src="https://komarev.com/ghpvc/?username=DunHouGo&&style=flat-square" align="center" />
 -->
-
+<!--
 <h2 align="center">⚡My Skills</h2>
 <p align="center"> 
   <img alt="Houdini" src="https://img.shields.io/badge/-Houdini-8DD6F9?style=flat-square&logo=houdini&logoColor=white" /> 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
 
 </p>
-
+-->
 <!--
 开源项目
 -->
