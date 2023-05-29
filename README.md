@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">😄Hey! Nice to see you.</h1>
-<!--
-<!--https://github.com/piyushsuthar/github-readme-quotes-->
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20habbit%20developer%20and%20mostly%20coding%20for%20Maxon%20Cinema%204D%20plugins%20and%20tools.&author=DunHouGo" align="center" style="width: 50%" />
-</div>  
--->
+
 <!--
 <p>Welcome to my page! </br> I'm <b>DunHouGo</b>, a habbit developer and mostly coding for Maxon Cinema 4D plugins and tools.</p>
 <h3>Things I code with</h3>
@@ -172,12 +167,14 @@ Here are some ideas to get you started:
 </table>
 </div>
 
+<!--
+开源项目
 
 <h2 align="center">&#x1F34F;Github Most Languages</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DunHouGo&layout=compact" align="center" /></div> 
 
 
-
+-->
 
 <h2 align="center">&#x1F354;Connect with me</h2>
 <div align="center">
@@ -186,13 +183,13 @@ Here are some ideas to get you started:
 </a>  
 </div>  
   
-
+<!--
 <br/> 
 <h2 align="center">&#x1F37A;Github Stats</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DunHouGo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-
+-->
   
 
 <h2 align="center">🌈Show your support</h2>
