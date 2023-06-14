@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 开源项目
 -->
 
-<h2 align="center">These plugins not update any more, I will move it to my website www.boghma.com with a new manager hub(not done yet),but all the plugins still FREE.</h1>
+<h2 align="center">These plugins not update on Github any more, I will move it to my website www.boghma.com with a new manager hub(not done yet),but all the plugins still FREE.</h1>
 
 <h2 align="center">&#x2705;Open projects</h2>
 <div align="center">
