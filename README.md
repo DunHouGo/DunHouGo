@@ -136,7 +136,7 @@ Here are some ideas to get you started:
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_ClonerPin?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_OctaneManager"><b>c4dplugin_ClonerPin</b></a></td>
+      <td><a href="https://github.com/DunHouGo/c4dplugin_OctaneManager"><b>c4dplugin_OctaneManager</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_OctaneManager?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_OctaneManager?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_OctaneManager?color=yellow&style=flat-square&labelColor=343b41"/></td>
