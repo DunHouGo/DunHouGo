@@ -100,10 +100,10 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_PluginManager"><b>c4dplugin_PluginManager</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_PluginManager?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_PluginManager?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_PluginManager?color=yellow&style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DunHouGo/Boghma-Plugin-HUB"><b>c4dplugin_PluginManager</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Boghma-Plugin-HUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Boghma-Plugin-HUB?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Boghma-Plugin-HUB?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/DunHouGo/c4dplugin_RenderFlow"><b>c4dplugin_RenderFlow</b></a></td>
