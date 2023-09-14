@@ -47,9 +47,47 @@ Here are some ideas to get you started:
 开源项目
 -->
 
-<h2 align="center">These plugins not update on Github any more, I will move it to my website www.boghma.com (not done yet) with a new manager, but all the plugins still FREE.</h1>
+<h2 align="center">
+	Use the plugin manager to update and install plugins, all the plugins still FREE.<br/>
+	
+</h2>
 
-<h2 align="center">&#x2705;Open projects</h2>
+<h3 align="center">Plugins not update on Github any more ( renderEngine is active update )
+</h3>
+<div align="center">
+
+Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db4ec)
+
+</div>  
+
+
+<!--
+开发项目
+-->
+<h2 align="center">&#x1F333;Plugin Manager</h2>
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Last Commit</b></td>
+      <td><b>🛎 Languages</b></td>
+    </tr>    
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/Boghma-Plugin-HUB"><b>c4dplugin_PluginManager</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Boghma-Plugin-HUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Boghma-Plugin-HUB?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Boghma-Plugin-HUB?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h2 align="center">&#x2705;Open Sources</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
@@ -87,7 +125,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">&#x26D4;Closed projects</h2>
+<h2 align="center">&#x26D4;Closed Sources</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
@@ -145,36 +183,7 @@ Here are some ideas to get you started:
 </table>
 </div>
 
-<!--
-开发项目
--->
-<h2 align="center">&#x1F333;WIP projects</h2>
-<div align="center">
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Last Commit</b></td>
-      <td><b>🛎 Languages</b></td>
-    </tr>    
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_WorkFlow"><b>c4dplugin_WorkFlow</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_WorkFlow?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_WorkFlow?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_WorkFlow?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_GoPainter"><b>c4dplugin_GoPainter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_GoPainter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_GoPainter?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_GoPainter?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+
 
 <!--
 开源项目
@@ -226,5 +235,8 @@ Bilibili: [@王敦厚Go](https://space.bilibili.com/88982338?spm_id_from=333.100
 Github: [@DunHouGo](https://github.com/DunHouGo)
 <br/>
 Gitee: [@DunHouGo](https://gitee.com/DunHouGo)
+<br/>
+<br/>
+FlowUs: [Documents](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db4ec)
 <br/>
 </div>
