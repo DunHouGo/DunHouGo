@@ -125,7 +125,7 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
 -->
 
 
-<h2 align="center">&#x26D4;Closed Sources</h2>
+<h2 align="center">&#x26D4;Closed Sources(Use Plungin Manager Version)</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
