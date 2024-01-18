@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-	Use the plugin manager to update and install plugins, all the plugins still FREE.<br/>
+	Use the plugin manager to update and install plugins, all the plugins are personal FREE.<br/>
 	
 </h2>
 
-<h3 align="center">Plugins not update on Github any more ( renderEngine is active update )
+<h3 align="center">If you want to push your free plugins to the manager, feel free to contact me
 </h3>
 <div align="center">
 
@@ -124,7 +124,7 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
 闭源项目
 -->
 
-
+<!--
 <h2 align="center">&#x26D4;Closed Sources(Use Plungin Manager Version)</h2>
 <div align="center">
 <table align="center">
@@ -182,7 +182,7 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
   </tbody>
 </table>
 </div>
-
+-->
 
 
 <!--
@@ -216,7 +216,7 @@ Email: 769867389@qq.com
 
 -->
   
-
+<!--
 <h2 align="center">🌈Show your support</h2>
 <h5 align="center">Be sure to drop a 🌟 if you like the project!</h5>
 <br/>
@@ -240,3 +240,4 @@ Gitee: [@DunHouGo](https://gitee.com/DunHouGo)
 FlowUs: [Documents](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db4ec)
 <br/>
 </div>
+-->
