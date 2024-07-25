@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-	Use the plugin manager to update and install plugins, all the plugins are personal FREE.<br/>
+	Get our plugin manager and get all the plugins for FREE.<br/>
 	
 </h2>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </h3>
 <div align="center">
 
-Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db4ec)
+Website :  [Boghma](https://www.boghma.com)
 
 </div>  
 
@@ -77,7 +77,7 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DunHouGo/Boghma-Plugin-HUB"><b>c4dplugin_PluginManager</b></a></td>
+      <td><a href="https://github.com/DunHouGo/Boghma-Plugin-HUB"><b>Boghma Plugin Manager</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Boghma-Plugin-HUB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Boghma-Plugin-HUB?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Boghma-Plugin-HUB?color=yellow&style=flat-square&labelColor=343b41"/></td>
@@ -87,7 +87,7 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
 </div>
 
 
-<h2 align="center">&#x2705;Open Sources</h2>
+<h2 align="center">&#x2705;Open Sources Library for Cinema 4D</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
@@ -99,24 +99,27 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
     </tr>    
   </thead>  
   <tbody>
+<!--
     <tr>    
-      <td><a href="https://github.com/DunHouGo/Custom_Redshift_API"><b>Custom_Redshift_API</b></a></td>
+      <td><a href="https://github.com/DunHouGo/Custom_Redshift_API"><b>cinema4d_Renderer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Custom_Redshift_API?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Custom_Redshift_API?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Custom_Redshift_API?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/DunHouGo/cinema4d_Shortcut"><b>cinema4d_Shortcut</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/cinema4d_Shortcut?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/cinema4d_Shortcut?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/cinema4d_Shortcut?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
+-->
     <tr>
-      <td><a href="https://github.com/DunHouGo/renderEngine"><b>renderEngine</b></a></td>
+      <td><a href="https://github.com/DunHouGo/renderEngine"><b>Renderer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/renderEngine?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/renderEngine?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/renderEngine?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  <tr>
+      <td><a href="https://github.com/DunHouGo/cinema4d_Shortcut"><b>Shortcut</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/cinema4d_Shortcut?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/cinema4d_Shortcut?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/cinema4d_Shortcut?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
   </tbody>
 </table>
 </div>
@@ -202,10 +205,8 @@ Documents :  [FlowUs](https://flowus.cn/boghma/6497da40-3b62-4575-9e49-7de8e48db
 </a> 
 -->
 
-Email: shady19950327@outlook.com
+Email: dunhougo@outlook.com
 <br/>
-<br/>
-Email: 769867389@qq.com
 </div>  
   
 <!--
