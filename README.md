@@ -119,10 +119,41 @@ Website :  [Boghma](https://www.boghma.com)
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/cinema4d_Shortcut?color=orange&style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/cinema4d_Shortcut?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
+  </tbody>
+</table>
+</div>
+
+<h2 align="center">&#x2705;Open Sources Plugin for Cinema 4D</h2>
+<div align="center">
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Last Commit</b></td>
+      <td><b>🛎 Languages</b></td>
+    </tr>    
+  </thead>  
+  <tbody>
+<!--
+    <tr>    
+      <td><a href="https://github.com/DunHouGo/Custom_Redshift_API"><b>cinema4d_Renderer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Custom_Redshift_API?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Custom_Redshift_API?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Custom_Redshift_API?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+-->
+    <tr>
+      <td><a href="https://github.com/DunHouGo/C4D-Learning-Source-Creator"><b>Learning Source Creator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/C4D-Learning-Source-Creator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/C4D-Learning-Source-Creator?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/C4D-Learning-Source-Creator?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
 
   </tbody>
 </table>
 </div>
+
 <!--
 闭源项目
 -->
