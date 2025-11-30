@@ -5,74 +5,40 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
 
-<h1 align="center">😄Hey! Nice to see you.</h1>
-
-<!--
-<p>Welcome to my page! </br> I'm <b>DunHouGo</b>, a habbit developer and mostly coding for Maxon Cinema 4D plugins and tools.</p>
-<h3>Things I code with</h3>
-  <img alt="React" src="Assets\adobe.svg" width=24/>
-    <img src="https://komarev.com/ghpvc/?username=DunHouGo&&style=flat-square" align="center" />
--->
-<!--
-<h2 align="center">⚡My Skills</h2>
-<p align="center"> 
-  <img alt="Houdini" src="https://img.shields.io/badge/-Houdini-8DD6F9?style=flat-square&logo=houdini&logoColor=white" /> 
-  <img alt="Nuke" src="https://img.shields.io/badge/-Nuke-007ACC?style=flat-square&logo=nuke&logoColor=white" />
-  <img alt="Cinema4D" src="https://img.shields.io/badge/-Cinema 4D-46a2f1?style=flat-square&logo=Cinema4D&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-2088FF?style=flat-square&logo=adobe&logoColor=white" />
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-After Effects-1a73e8?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-  <img alt="Adobe Premire" src="https://img.shields.io/badge/-Adobe Premire-1a73e8?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-  <img alt="Adobe PhotoShop" src="https://img.shields.io/badge/-Adobe PhotoShop-1a73e8?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-1a73e8?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
+<h1 align="center">Welcome</h1>
 
 </p>
--->
 <!--
 开源项目
 -->
 
-<h2 align="center">
+<h4 align="center">
 	Get our plugin manager and get all the plugins for FREE.<br/>
-	
-</h2>
+</h4>
 
-<h3 align="center">If you want to push your free plugins to the manager, feel free to contact me
-</h3>
-<div align="center">
+<p align="center">If you want to push your free plugins to the manager, feel free to contact me
+</p>
 
-Website :  [Boghma](https://www.boghma.com)
-
-</div>  
 
 
 <!--
 开发项目
 -->
-<h2 align="center">&#x1F333;Plugin Manager</h2>
+<h2 align="center">Boghma C4D Plugin Manager</h2>
 <div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Last Commit</b></td>
-      <td><b>🛎 Languages</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Last Commit</b></td>
+      <td><b>Languages</b></td>
     </tr>    
   </thead>
   <tbody>
@@ -87,15 +53,15 @@ Website :  [Boghma](https://www.boghma.com)
 </div>
 
 
-<h2 align="center">&#x2705;Open Sources Library for Cinema 4D</h2>
+<h2 align="center">Open Sources Library for Cinema 4D</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Last Commit</b></td>
-      <td><b>🛎 Languages</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Last Commit</b></td>
+      <td><b>Languages</b></td>
     </tr>    
   </thead>  
   <tbody>
@@ -123,15 +89,15 @@ Website :  [Boghma](https://www.boghma.com)
 </table>
 </div>
 
-<h2 align="center">&#x2705;Open Sources Plugin for Cinema 4D</h2>
+<h2 align="center">Open Sources Plugin for Cinema 4D</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Last Commit</b></td>
-      <td><b>🛎 Languages</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Last Commit</b></td>
+      <td><b>Languages</b></td>
     </tr>    
   </thead>  
   <tbody>
@@ -158,65 +124,38 @@ Website :  [Boghma](https://www.boghma.com)
 闭源项目
 -->
 
-<!--
-<h2 align="center">&#x26D4;Closed Sources(Use Plungin Manager Version)</h2>
+
+<h2 align="center">Visual Studio Code Extension</h2>
 <div align="center">
 <table align="center">
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Last Commit</b></td>
-      <td><b>🛎 Languages</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Last Commit</b></td>
+      <td><b>Languages</b></td>
     </tr> 
   </thead>
+	
   <tbody>
     <tr>
-      <td><a href="https://github.com/DunHouGo/Boghma-Plugin-HUB"><b>c4dplugin_PluginManager</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/Boghma-Plugin-HUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/Boghma-Plugin-HUB?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/Boghma-Plugin-HUB?color=yellow&style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DunHouGo/pyimportcost"><b>pyImportCost</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/pyimportcost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/pyimportcost?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/pyimportcost?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_RenderFlow"><b>c4dplugin_RenderFlow</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_RenderFlow?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_RenderFlow?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_RenderFlow?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>    
-    <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_RQSpyer"><b>c4dplugin_RQSpyer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_RQSpyer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_RQSpyer?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_RQSpyer?color=yellow&style=flat-square&labelColor=343b41"/></td>
+	  
+  <tr>
+      <td><a href="https://github.com/DunHouGo/runentrypoint"><b>runEntryPoint</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/runentrypoint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/runentrypoint?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/runentrypoint?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_LightSolo"><b>c4dplugin_LightSolo</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_LightSolo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_LightSolo?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_LightSolo?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_EasyToggler"><b>c4dplugin_EasyToggler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_EasyToggler?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_EasyToggler?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_EasyToggler?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
-      <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_ClonerPin"><b>c4dplugin_ClonerPin</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_ClonerPin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_ClonerPin?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_ClonerPin?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
-      <tr>
-      <td><a href="https://github.com/DunHouGo/c4dplugin_OctaneManager"><b>c4dplugin_OctaneManager</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/c4dplugin_OctaneManager?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/c4dplugin_OctaneManager?color=orange&style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/c4dplugin_OctaneManager?color=yellow&style=flat-square&labelColor=343b41"/></td>
-    </tr>
+	  
   </tbody>
 </table>
 </div>
--->
+
 
 
 <!--
@@ -228,7 +167,7 @@ Website :  [Boghma](https://www.boghma.com)
 
 -->
 
-<h2 align="center">&#x1F354;Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 <div align="center">
 <!--
 <a href="https://github.com/DunHouGo" target="_blank">
@@ -239,7 +178,11 @@ Website :  [Boghma](https://www.boghma.com)
 Email: dunhougo@outlook.com
 <br/>
 </div>  
-  
+<div align="center">
+
+Website :  [Boghma](https://www.boghma.com)
+
+</div>  
 <!--
 <br/> 
 <h2 align="center">&#x1F37A;Github Stats</h2>
