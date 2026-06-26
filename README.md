@@ -61,6 +61,16 @@ More Cinema 4D plugins on [Boghma](https://www.boghma.com)
       <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/tauri-desktop-starter?color=yellow&style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
+
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DunHouGo/C4D-Plugin-Complier"><b>C4D Plugin Complier</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DunHouGo/C4D-Plugin-Complier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/DunHouGo/C4D-Plugin-Complier?color=orange&style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/DunHouGo/C4D-Plugin-Complier?color=yellow&style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+	
 </table>
 </div>
 
